@@ -1,9 +1,9 @@
 # G-CS3330-Hw3
 
 Team Members:
-Issac Rider
-Kyle Young
-Andrew Hamilton
+Issac Rider,
+Kyle Young,
+Andrew Hamilton,
 Pierce Terry
 
 Instructions:
