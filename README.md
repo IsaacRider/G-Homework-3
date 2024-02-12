@@ -1,6 +1,6 @@
 # G-CS3330-Hw3
 
-Team Members:
+Team Members:<br>
 Issac Rider,
 Kyle Young,
 Andrew Hamilton,
