@@ -1,5 +1,10 @@
-# G-Homework-3
-CS 3330 HW3
+# G-CS3330-Hw3
+
+Team Members:
+Issac Rider
+Kyle Young
+Andrew Hamilton
+Pierce Terry
 
 Instructions:
 
